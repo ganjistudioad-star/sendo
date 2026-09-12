@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">مراقب الواي فاي</string>
+    <string name="channel_name">خدمة مراقبة الواي فاي</string>
+    <string name="channel_desc">إشعار مستمر يفيد بأن خدمة مراقبة الاتصال نشطة</string>
+    <string name="default_disconnect_msg">⚠️ تنبيه: انقطع اتصال الواي فاي عن الهاتف المراقَب.</string>
+    <string name="default_reconnect_msg">✅ تنبيه: تمت استعادة اتصال الواي فاي بنجاح.</string>
+</resources>
